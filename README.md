@@ -1,7 +1,8 @@
 ## Hi there 👋
-I’m currently working on Blender & Unity
-I’m looking for help with Unity
- Fun fact: I like cars
+
+I’m currently working on Blender & Unity projc\ects.
+ 
+Fun fact: I like cars.
 
 <!--
 **T0SH1R0x/T0SH1R0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
