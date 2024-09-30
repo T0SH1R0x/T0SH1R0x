@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on Blender & Unity projc\ects.
+I’m currently working on Blender & Unity projects.
  
 Fun fact: I like cars.
 
